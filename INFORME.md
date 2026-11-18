@@ -1,4 +1,4 @@
-# Informe de Trabajo Práctico: Aplicación Agenda de Tareas
+# Aplicación Agenda de Tareas
 
 ## 1. Introducción y Objetivos
 Aplicación móvil y web multiplataforma desarrollada en **React Native (Expo)** utilizando **TypeScript**. Su objetivo principal es la gestión eficiente de tareas personales, permitiendo al usuario:
